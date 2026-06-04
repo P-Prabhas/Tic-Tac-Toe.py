@@ -11,7 +11,6 @@ An unbeatable, command-line Tic-Tac-Toe game featuring an AI opponent powered by
 - **Dynamic Play:** When faced with multiple equally perfect moves, the AI picks one at random to keep gameplay varied.
 
 ##  How It Works
-
 This project implements fundamental game theory and adversarial search concepts:
 
 1. **Minimax Matrix:** The AI plays as the *Maximizer* (assigning positive value to wins) and assumes the human plays perfectly as the *Minimizer* (assigning negative value to AI losses).
